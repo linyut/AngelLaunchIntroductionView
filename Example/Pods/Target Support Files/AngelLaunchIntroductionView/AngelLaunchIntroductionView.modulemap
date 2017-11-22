@@ -1,0 +1,6 @@
+framework module AngelLaunchIntroductionView {
+  umbrella header "AngelLaunchIntroductionView-umbrella.h"
+
+  export *
+  module * { export * }
+}

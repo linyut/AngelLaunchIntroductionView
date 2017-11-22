@@ -1,0 +1,16 @@
+PODS:
+  - AngelLaunchIntroductionView (0.1.0)
+
+DEPENDENCIES:
+  - AngelLaunchIntroductionView (from `../`)
+
+EXTERNAL SOURCES:
+  AngelLaunchIntroductionView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AngelLaunchIntroductionView: db29f05db40a5d3b7a3819e067d6ec990aac48be
+
+PODFILE CHECKSUM: 45d3b117f53008536d8e841d051bc303484d41a6
+
+COCOAPODS: 1.3.1
