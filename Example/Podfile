@@ -1,0 +1,6 @@
+use_frameworks!
+target 'AngelLaunchIntroductionView_Tests' do
+  pod 'AngelLaunchIntroductionView', :path => '../'
+  
+  
+end
